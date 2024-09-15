@@ -1,3 +1,5 @@
+#Exercise was to create a program that picks a random name from the list.
+
 import random
 
 friends = ["Alice", "Bob", "Charlie", "David", "Emanuel"]
