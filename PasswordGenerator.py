@@ -20,8 +20,10 @@ nr_numbers = int(input(f"How many numbers would you like?\n"))
 random_password = []
 for letter in range(0, nr_letters):
     random_password += random.choice(letters)
+
 for symbol in range(0, nr_symbols):
     random_password += random.choice(symbols)
+
 for number in range(0, nr_numbers):
     random_password += random.choice(numbers)
 
