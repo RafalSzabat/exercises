@@ -23,7 +23,7 @@ random_symbol = []
 for symbol in range(0, nr_symbols):
     random_symbol += random.choice(symbols)
 random_number = []
-for number in range(0, nr_symbols):
+for number in range(0, nr_numbers):
     random_number += random.choice(numbers)
 
 #Adding the lists, shuffling them, and joining to create a password
