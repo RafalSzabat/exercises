@@ -1,6 +1,5 @@
 #Password Generator Project
 import random
-from operator import index
 
 #List of letters, numbers, symbols - I deliberately did not use '()' symbols as they look bad in password aesthetics
 
